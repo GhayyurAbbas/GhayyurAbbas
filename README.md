@@ -23,4 +23,4 @@ Most of my professional work lives in private company repositories. **Code sampl
 
 🌐 [ghayyur.com](https://ghayyur.com) · 💼 [LinkedIn](https://www.linkedin.com/in/ghayyur-abbas-9a666918b) · ✉️ ghyourabbas96@gmail.com
 
-Open to senior full stack and AI roles in the UAE and remote, and to freelance projects.
+Open to senior full stack and AI roles in the UAE, abroad and remote, and to freelance projects.
